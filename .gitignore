@@ -1,0 +1,10 @@
+# Ігнорувати файли з розширеннями .log та .tmp
+*.log
+*.tmp
+
+# Ігнорувати теку node_modules
+node_modules/
+
+# Ігнорувати файли конфігурації
+config.json
+.env
